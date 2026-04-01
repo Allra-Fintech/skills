@@ -50,7 +50,10 @@ skills/
 | ---------- | -------------- | ---------------------------------------------------------------------- | ------------------------------- |
 | 기획       | `prd-writer`   | 기능 아이디어, 회의 메모, 정책, VOC 등을 근거 기반 PRD로 정리하는 스킬 | `skills/planning/prd-writer/`   |
 | 기획       | `issue-writer` | 요구사항, PRD, API 변경사항을 실행 가능한 이슈 초안으로 정리하는 스킬  | `skills/planning/issue-writer/` |
-| 디자인     | 없음           | 현재 등록된 전용 스킬 없음                                             | `skills/design/`                |
+| 디자인     | `design-feedback` | 화면, 플로우, 컴포넌트 등 디자인 산출물에 대한 구조적 피드백 스킬     | `skills/design/design-feedback/` |
+| 디자인     | `ux-copy`      | 버튼, 온보딩, 에러 메시지, CTA 등 제품 내 UX 카피 작성 및 검토 스킬   | `skills/design/ux-copy/`        |
+| 디자인     | `idea`         | 기능, 플로우, 화면 구성 등 UX 개선 아이디어 제공 스킬                  | `skills/design/idea/`           |
+| 디자인     | `hypothesis`   | 데이터 기반 가설 수립 및 검증 방법 설계 스킬                           | `skills/design/hypothesis/`     |
 | 프론트엔드 | 없음           | 현재 등록된 전용 스킬 없음                                             | `skills/frontend/`              |
 | 백엔드     | 없음           | 현재 등록된 전용 스킬 없음                                             | `skills/backend/`               |
 
