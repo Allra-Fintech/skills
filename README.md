@@ -56,7 +56,7 @@ skills/
 | 디자인     | `ux-copy`      | 버튼, 온보딩, 에러 메시지, CTA 등 제품 내 UX 카피 작성 및 검토 스킬   | `skills/design/ux-copy/`        |
 | 디자인     | `idea`         | 기능, 플로우, 화면 구성 등 UX 개선 아이디어 제공 스킬                  | `skills/design/idea/`           |
 | 디자인     | `hypothesis`   | 데이터 기반 가설 수립 및 검증 방법 설계 스킬                           | `skills/design/hypothesis/`     |
-| 프론트엔드 | 없음           | 현재 등록된 전용 스킬 없음                                             | `skills/frontend/`              |
+| 프론트엔드 | `ariadne`      | 백엔드 API 목록을 기준으로 프론트 호출 흔적을 로컬 상태 파일에 저장하고 GitHub merge PR 기준으로 증분 점검하는 검증 스킬 | `skills/frontend/ariadne/`      |
 | 백엔드     | 없음           | 현재 등록된 전용 스킬 없음                                             | `skills/backend/`               |
 
 ## 비개발자용 레포 업데이트
